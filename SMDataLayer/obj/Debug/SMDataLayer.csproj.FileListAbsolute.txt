@@ -1,0 +1,6 @@
+C:\Users\Sidali\source\repos\SMDataLayer\bin\Debug\SMDataLayer.dll
+C:\Users\Sidali\source\repos\SMDataLayer\bin\Debug\SMDataLayer.pdb
+C:\Users\Sidali\source\repos\SMDataLayer\obj\Debug\SMDataLayer.csproj.AssemblyReference.cache
+C:\Users\Sidali\source\repos\SMDataLayer\obj\Debug\SMDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sidali\source\repos\SMDataLayer\obj\Debug\SMDataLayer.dll
+C:\Users\Sidali\source\repos\SMDataLayer\obj\Debug\SMDataLayer.pdb
