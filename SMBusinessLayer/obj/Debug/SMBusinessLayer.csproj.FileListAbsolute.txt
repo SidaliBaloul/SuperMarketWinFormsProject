@@ -1,0 +1,9 @@
+C:\Users\Sidali\source\repos\SMBusinessLayer\bin\Debug\SMBusinessLayer.dll
+C:\Users\Sidali\source\repos\SMBusinessLayer\bin\Debug\SMBusinessLayer.pdb
+C:\Users\Sidali\source\repos\SMBusinessLayer\bin\Debug\SMDataLayer.dll
+C:\Users\Sidali\source\repos\SMBusinessLayer\bin\Debug\SMDataLayer.pdb
+C:\Users\Sidali\source\repos\SMBusinessLayer\obj\Debug\SMBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Sidali\source\repos\SMBusinessLayer\obj\Debug\SMBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sidali\source\repos\SMBusinessLayer\obj\Debug\SMBusine.2B023FF7.Up2Date
+C:\Users\Sidali\source\repos\SMBusinessLayer\obj\Debug\SMBusinessLayer.dll
+C:\Users\Sidali\source\repos\SMBusinessLayer\obj\Debug\SMBusinessLayer.pdb
